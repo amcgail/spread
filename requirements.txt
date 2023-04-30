@@ -1,0 +1,12 @@
+networkx
+pandas
+scipy
+numpy
+matplotlib
+jupyterlab
+plotly
+covidcast
+sklearn
+bayesian-optimization
+EoN
+yaml
