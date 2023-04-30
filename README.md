@@ -22,6 +22,8 @@ source <VENV_PATH>/bin/activate
 pip install <GIT_REPO>/requirements.txt
 ```
 
+You also will need to create a symlink in the `site-packages` directory of the virtual environment, linking to this GitHub repo.
+
 In your working directory (outside the repo), create a `.config.yaml` file with the appropriate values (see `.config.example.yaml`). You should be ready to develop!
 
 # Contact
